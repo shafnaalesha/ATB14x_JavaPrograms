@@ -1,7 +1,8 @@
-package Java_Basics_ex_01;
+package ex_01Java_Basics;
 
 public class Lab001_HelloWorld {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         System.out.println("Hello World");
     }
 }
