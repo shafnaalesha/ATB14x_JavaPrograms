@@ -1,4 +1,4 @@
-package Java_Basics_ex_01;
+package ex_01Java_Basics;
 
 public class Lab002_Multiplication_9 {
     public static void main(String[] args) {
