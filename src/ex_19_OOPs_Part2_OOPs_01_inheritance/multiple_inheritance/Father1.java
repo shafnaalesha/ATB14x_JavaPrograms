@@ -1,0 +1,10 @@
+package ex_19_OOPs_Part2_OOPs_01_inheritance.multiple_inheritance;
+
+public class Father1 {
+    void money(){
+        System.out.println("1CR");
+    }
+    void f1(){
+        System.out.println("f1 car");
+    }
+}
