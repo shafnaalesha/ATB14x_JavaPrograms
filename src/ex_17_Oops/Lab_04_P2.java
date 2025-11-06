@@ -1,3 +1,4 @@
+/*
 package ex_17_Oops;
 
 public class Lab_04_P2 {
@@ -16,3 +17,4 @@ public class Lab_04_P2 {
 
     }
 }
+*/

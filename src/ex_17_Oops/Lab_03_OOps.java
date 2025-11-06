@@ -1,6 +1,9 @@
-package ex_17_Oops;
 
-public class Lab_03_OOps {
+/*package ex_17_Oops;
+
+public class Lab_03_OOps*/
+    /*
+{
     public static void main(String[] args)
     {
         Person p1 = new Person();
@@ -12,3 +15,4 @@ public class Lab_03_OOps {
         new Person();
     }
 }
+*/
