@@ -22,5 +22,6 @@ public class Lab_09_ArrayList_Input {
             System.out.println(name);
         }
         scanner.close();
+        //
     }
 }

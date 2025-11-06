@@ -11,5 +11,6 @@ public class Lab_05_Vector {
         v.remove("Amit");
         System.out.println(v);
         System.out.println(v.contains("Lucky"));
+        //
     }
 }

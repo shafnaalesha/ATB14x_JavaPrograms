@@ -9,5 +9,6 @@ public class Lab_02_Generics {
     static <Pramod> Pramod temp(Pramod a, Pramod b) {
 
         return null;
+        //
     }
 }

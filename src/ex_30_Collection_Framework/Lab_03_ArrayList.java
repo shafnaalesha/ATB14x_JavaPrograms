@@ -34,6 +34,7 @@ public class Lab_03_ArrayList {
         Iterator iterator = list.iterator();
         while (iterator.hasNext()){
             System.out.println(iterator.next());
+            //
         }
     }
 }

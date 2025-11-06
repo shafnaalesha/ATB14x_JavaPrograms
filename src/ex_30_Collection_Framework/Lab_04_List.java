@@ -6,5 +6,6 @@ public class Lab_04_List {
         // List s = new List()
         List mylist = new ArrayList(5);
         List mylist0 = new ArrayList();
+        //
     }
 }

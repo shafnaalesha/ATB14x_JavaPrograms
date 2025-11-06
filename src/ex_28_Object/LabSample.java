@@ -28,5 +28,6 @@ public class LabSample extends Object{
     @Override
     protected void finalize() throws Throwable {
         super.finalize();
+        //
     }
 }

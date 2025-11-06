@@ -17,5 +17,6 @@ public class Lab_02_List {
 
         System.out.println(arrayList);
         System.out.println(arrayList.size());
+        //
     }
 }

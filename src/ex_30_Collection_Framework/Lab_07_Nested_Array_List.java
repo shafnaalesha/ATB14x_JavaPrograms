@@ -30,6 +30,7 @@ public class Lab_07_Nested_Array_List {
         System.out.println(all_fruits_veg);
         System.out.println(all_fruits_veg.size());
         System.out.println(all_fruits_veg.get(1));
+        //
 
     }
 }

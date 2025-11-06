@@ -9,5 +9,6 @@ public class Lab_03_Real_Automation {
         list_web_element.add(123);
         list_web_element.add(true);
         list_web_element.add(3.14);
+        //
     }
 }

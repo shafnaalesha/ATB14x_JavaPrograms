@@ -9,6 +9,6 @@ public class Lab_01_Array_Problem {
         // 2. Same data can  be stored.
         // 3. wastage of memory for the 9 elements
         // 4. insertion and deletion is heavy operation.
-
+//
     }
 }

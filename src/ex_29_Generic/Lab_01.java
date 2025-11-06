@@ -18,4 +18,5 @@ public class Lab_01 {
     //    static <MODI> MODI temp_sum1(MODI a, MODI b){
 //        return null;
 //    }
+    //
 }
